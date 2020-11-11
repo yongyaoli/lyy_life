@@ -1,7 +1,7 @@
 #from distutils.core import setup
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 
 tests_require = []
 
@@ -11,8 +11,8 @@ setup(name='lyy_life', # 模块名称
       url='https://github.com/yongyaoli/lyy_life',  # 项目包的地址
       author="yixin2009",  # Pypi用户名称
       author_email='731969968@qq.com',  # Pypi用户的邮箱
-      keywords='python liyy life',
-      description='this is my life.',
+      keywords='python liyy common ',
+      description='common libary.',
       license='MIT',  # 开源许可证类型
       classifiers=[
           'Operating System :: OS Independent',

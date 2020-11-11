@@ -3,7 +3,6 @@
 def life(args):
     '''
     this is my First Python Package.
-    this is my life log
     '''
     res = False
     if type(args) == int:
