@@ -20,7 +20,7 @@ setup(name='lyy_life', # 模块名称
           'Programming Language :: Python :: 3',
           'Programming Language :: Python :: Implementation :: PyPy'
       ],
-      python_requires='>=3.5',
+      python_requires='>=3.11',
       version=VERSION, 
       install_requires=install_requires,
       tests_require=tests_require,
