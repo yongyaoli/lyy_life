@@ -11,5 +11,5 @@ def life(args):
             sum += i
         res = True
     else:
-        sum = '{0} 不是整数，无法计算'.format(args)
+        sum = '{0} 不是整数，无法计算！'.format(args)
     return res, sum
