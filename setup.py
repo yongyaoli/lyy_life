@@ -1,7 +1,7 @@
 #from distutils.core import setup
 from setuptools import setup, find_packages
 
-VERSION = '0.0.3'
+VERSION = '0.0.4'
 
 tests_require = []
 
